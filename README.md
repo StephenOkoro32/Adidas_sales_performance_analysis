@@ -10,7 +10,7 @@ A committed data analyst who is cuurently building competence in summarising dat
 - Python
 
 ## My Projects
-- [Adidas sales Performance Analysis] (...)
+- [Adidas sales Performance Analysis] [https://github.com/StephenOkoro32/Adidas_sales_performance_analysis]
 - [Fifa Player Performance Analysis] (...)
 
 - ## Currently Learning
